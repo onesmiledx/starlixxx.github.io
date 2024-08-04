@@ -10,8 +10,8 @@ paginate = 20
 style = "github-light"
 
 [params]
-  author = "BOLART GAY"
-  info = "i ya tozhe..."
+  author = "Прочитал = гей"
+  info = "бля я ж вижу ты прочитал"
   description = "Starlix's personal website"
   keywords = "developer,personal"
   #avatarurl = "images/avatar.png"
