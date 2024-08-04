@@ -1,5 +1,5 @@
-baseurl = "https://sounddrill31.github.io"
-title = "Souhrud's Website"
+baseurl = "https://starlixxx.github.io"
+title = "Starlix's Website"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -10,18 +10,18 @@ paginate = 20
 style = "github-light"
 
 [params]
-  author = "Souhrud Reddy"
-  info = "Student by day, Hobbyist Developer by night"
-  description = "Souhrud's personal website"
-  keywords = "blog,developer,personal"
+  author = "Bexultan Bazhuov"
+  info = "Student and Developer"
+  description = "Starlix's personal website"
+  keywords = "developer,personal"
   #avatarurl = "images/avatar.png"
-  #gravatar = "souhrud@live.com"
+  #gravatar = "beksultanbazuov@gmail.com"
 
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  since = 2023
+  since = 2024
 
   enableTwemoji = true
 
@@ -43,12 +43,7 @@ style = "github-light"
   name = "Github"
   icon = "fa-brands fa-github fa-2x"
   weight = 1
-  url = "https://github.com/sounddrill31"
-[[params.social]]
-  name = "Mastodon"
-  icon = "fa-brands fa-mastodon fa-2x"
-  weight = 3
-  url = "https://infosec.exchange/@sounddrill/"
+  url = "https://github.com/onesmiledx"
 
 # Menu links
 [[menu.main]]

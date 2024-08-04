@@ -3,6 +3,7 @@ title = "Contact"
 slug = "contact"
 +++
 
-Feel free to contact me on discord, telegram, mastodon, etc. My username is: @sounddrill
-
-My email is souhrud@live.com
+- Discord: onesmiled
+- Tiktok: @mt6762
+- Telegram: @mt6762
+- Email: beksultanbazuov@gmail.com
